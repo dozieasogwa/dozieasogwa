@@ -1,19 +1,22 @@
-[![MasterHead](https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg)](https://dozieasogwa.io)
+[![MasterHead](https://www.arcanainfo.com/wp-content/uploads/2022/09/net-banner.jpg)](https://dozieasogwa.io)
 <h1 align="center">--Welcome-- I'm Dozie Asogwa</h1>
-<h3 align="center">A Full-Stack .NEt(C-Sharp) developer.</h3>
+<h3 align="center">A Full-Stack .NET(C-Sharp) developer.</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif"/> </p>
+<p align="right"> 
+<div>
 
--  I’m currently learning **React Native**
+  -  I’m currently learning **React Native**
 
 -  I’m looking to collaborate on **.NEt Projects**
 
-- 💬 Ask me about **C#**
+- 💬 You can ask me about **C#**
 
-- 📫 How to reach me **dozieasowa@gmail.com**
+- 📫 Or reach out at **dozieasowa@gmail.com**
 
 - ⚡ Fun fact: **I doodle.**
-
+</div>
+<img src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif"/> 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dozieasogwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dozieasogwa" height="30" width="40" /></a>
