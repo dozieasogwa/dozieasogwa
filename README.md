@@ -13,7 +13,7 @@
 
 - 📫 Or reach out at **dozieasowa@gmail.com**
 
-- ⚡ Fun fact: **I doodle.**
+- ⚡ Lets **build** stuff or **doodle.**
 </div>
 <img src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif"/> 
 </p>
