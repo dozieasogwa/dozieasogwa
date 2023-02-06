@@ -1,6 +1,6 @@
 [![MasterHead](https://www.arcanainfo.com/wp-content/uploads/2022/09/net-banner.jpg)](https://dozieasogwa.io)
-<h1 align="center">--Welcome-- I'm Dozie Asogwa</h1>
-<h3 align="center">A Full-Stack .NET(C-Sharp) developer.</h3>
+<h1 align="center">--Hello, Welcome--</h1>
+<h3 align="center">I'm a full-Stack .NET(C-Sharp) developer.</h3>
 
 <p align="right"> 
 <div>
