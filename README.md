@@ -7,7 +7,7 @@
 
   -  I’m currently learning **React Native**
 
--  I’m looking to collaborate on **.NEt Projects**
+-  Looking to collaborate on **.NET Projects**
 
 - 💬 You can ask me about **C#**
 
